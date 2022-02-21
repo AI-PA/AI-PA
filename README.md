@@ -2,8 +2,7 @@
 This is Alan Paz.
 --- 
 ### About Me 👨‍💻;
-- 👷‍♂️Industrial Engineering Student at the University Autonomous Nuevo León. (5° Semester)
-- ✍Learning Programmming (FullStack).
-- 
--  
+- 👷‍♂️Industrial Engineering Student at the UANL (Universidad Autonoma de Nuevo León, 5° Semester)
+- ✍Learning Programming (FullStack).
+- 👀 I’m interested in New Learning frameworks and programming languages.
 
