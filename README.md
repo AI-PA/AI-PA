@@ -1,8 +1,14 @@
-# ***👋Hello World!***; 🙋‍♂️This is Alan Paz.
-## About Me 👨‍💻;
-- 👷‍♂️Industrial Engineering Student at the UANL (Universidad Autonoma de Nuevo León, 5° Semester)
-- ✍Learning Programming (FullStack).
-- 👀 I’m interested in New Learning frameworks and programming languages.
-- 💙 My hobbies are reading, music, video games and anime.   
-### Feedback 🛠;
- >🙏🙆‍♂️ *Any form of feedback is appreciated because it helps me a lot to improve my learning.*
+<h1 align="Center"> 👨🏻‍💻 Alan Paz  </h1>
+<h3 align="center"> He/him 🙂 | Learning Programming 💻 | Student Industrial Engenieer 🎨 | Mexican 🇲🇽 </h3>
+
+```JavaScript
+ const Me = { 
+  Age: 21, 
+  Name: "Alan Israel Paz Aguilar",
+  code: ["JavaScript", "CSS", "HTML", "Python"],
+  tools: ["NodeJs","Azure"],
+  hoobies: ["Reading", "Music", "Videogames", "Anime"]
+  }
+```
+### FeedBack. 
+🙏🙆‍♂️ Any form of feedback is appreciated because it helps me a lot to improve my learning.
