@@ -1,5 +1,5 @@
 <h1 align="Center"> 👨🏻‍💻 Alan Paz  </h1>
-<h3 align="center"> He/him 🙂 | Learning Programming 💻 | Student Industrial Engenieer 🎨 | Mexican 🇲🇽 </h3>
+<h3 align="center"> He/him 🙂 | Learning Programming 💻 | Student Industrial Engenieer 👷🏻‍♂️ | Mexican 🇲🇽 </h3>
 
 ```JavaScript
  const Me = { 
