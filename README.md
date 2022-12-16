@@ -5,7 +5,7 @@
  const Me = { 
   Age: 21, 
   Name: "Alan Israel Paz Aguilar",
-  Code: ["JavaScript", "CSS", "HTML", "Python"],
+  Code: ["JavaScript","Python"],
   Tools: ["NodeJs","Azure"],
   Hoobies: ["Reading", "Music", "Videogames", "Anime"]
   }
