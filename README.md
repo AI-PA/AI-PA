@@ -1,8 +1,10 @@
-# 👋Hey Hola
+# 👋Hey Hola, Mi Nombre es Alan Paz 
+
+Bienvenido a mi perfil de Github, donde comparto mis proyectos y aprendizajes de Data Science & Data Analyst con el fin de documentar mi aprendizaje y dejar elementos, referencias y apoyo a la comunidad ✌️
 
 ## 💫 Acerca de mi
 
-👷 Soy estudiante de Ing. Industrial. <br>🐍 Aprendiendo Data Science & Data Analyst. <br>🪴 Buscando Crecer y aprender en este mundo de datos. <br>🤝 Conectando con equipos para generar nuevas ideas.<br><br>
+👷 Actualmente estudiante de Ing. Industrial. <br>🐍 Aprendiendo Data Science & Data Analyst. <br>🪴 Buscando crecer y aprender en este mundo de datos. <br>🤝 Conectando con equipos para generar nuevas ideas.<br>💻 Con Curiosidad y persistencia hacia lograr los objetivos<br><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-israel-paz-aguilar-b529391a3/)
 
