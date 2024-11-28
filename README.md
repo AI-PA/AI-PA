@@ -4,7 +4,7 @@ Bienvenido a mi perfil de Github, donde comparto mis proyectos y aprendizajes de
 
 ## 💫 Acerca de mi
 
-👷 Actualmente estudiante de Ing. Industrial. <br>🐍 Aprendiendo Data Science & Data Analyst. <br>🪴 Buscando crecer y aprender en este mundo de datos. <br>🤝 Conectando con equipos para generar nuevas ideas.<br>💻 Con Curiosidad y persistencia hacia lograr los objetivos<br><br>
+👷 Ing. Industrial & Data Analyst. <br>🐍 Aprendiendo Data Science & Data Engineer. <br>🪴 Buscando crecer y aprender en este mundo de datos. <br>🤝 Conectando con equipos para generar nuevas ideas.<br>💻 Con Curiosidad y persistencia hacia lograr los objetivos<br><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-israel-paz-aguilar-b529391a3/)
 
