@@ -1,6 +1,6 @@
 # 👋Hey Hola, Mi Nombre es Alan Paz 
 
-Bienvenido a mi perfil de Github, donde comparto mis proyectos y aprendizajes de Data Science & Data Analyst con el fin de documentar mi aprendizaje y dejar elementos, referencias y apoyo a la comunidad ✌️
+Bienvenido a mi perfil de Github, donde comparto mis proyectos y aprendizajes de Data Science, Data Engineer & Data Analyst con el fin de documentar mi aprendizaje y dejar elementos, referencias y apoyo a la comunidad ✌️
 
 ## 💫 Acerca de mi
 
